@@ -2,7 +2,7 @@ package telsh
 
 import (
 	"github.com/reiver/go-oi"
-	"github.com/reiver/go-telnet"
+	"github.com/wait4pumpkin/go-telnet"
 
 	"bytes"
 	"io"
